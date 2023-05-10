@@ -46,10 +46,11 @@ function exibirOsLivrosNaTela(listaDeLivros) {
 - Reduce;
 - Filter;
 - For Each;
+- Map;
 - Sort.
 
 
-## Test the project yourself: [Teste the project here!!!](#)
+## Test the project yourself: [Teste the project here!!!](https://bookstore-fawn-seven.vercel.app/)
 
 ### You can:
 
