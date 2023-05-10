@@ -57,6 +57,7 @@ function exibirOsLivrosNaTela(listaDeLivros) {
 - Filter books using the buttons;
 - See the avaliable books without oppacity;
 - Filter the avaliable books and see the total price of them;
+- Sort by price;
 - Use API to update the avaliable books.
 
 ## Author
